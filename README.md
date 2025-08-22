@@ -10,7 +10,7 @@
 - 📫 联系我的方式：[yina_auo@outlook.com]
 - ⚡ 有点无趣的小事实：[菠萝中含有的酶会分解蛋白质，所以过量食用时，相当于菠萝在“吃”你]
  
-* 欢迎查看我的代码仓库，如果发现有用的内容，不妨点个星标哦！😊
+### * 欢迎查看我的代码仓库，如果发现有用的内容，不妨点个星标哦！😊
 <!--
 **yinaauo/yinaauo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
